@@ -1,4 +1,4 @@
-module ccgo
+module github.com/crazycloudcc/ccgo
 
 go 1.16
 
