@@ -1,2 +1,3 @@
 # ccgo
-game server framework
+
+game server framework (dev)
