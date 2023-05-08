@@ -9,9 +9,10 @@ package nethttp
  */
 
 import (
-	"ccgo/debugger"
 	"fmt"
 	"net/http"
+
+	"github.com/crazycloudcc/ccgo/debugger"
 )
 
 /************************************************************************/

@@ -1,6 +1,6 @@
 package netrpc
 
-import "ccgo/debugger"
+import "github.com/crazycloudcc/ccgo/debugger"
 
 /*
  * rpc代理入口.

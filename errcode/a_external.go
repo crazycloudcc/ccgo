@@ -8,9 +8,10 @@ package errcode
  */
 
 import (
-	"ccgo/debugger"
 	"errors"
 	"fmt"
+
+	"github.com/crazycloudcc/ccgo/debugger"
 )
 
 /************************************************************************/

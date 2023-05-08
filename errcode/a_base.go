@@ -1,6 +1,6 @@
 package errcode
 
-import "ccgo/datastructs"
+import "github.com/crazycloudcc/ccgo/datastructs"
 
 /*
  * [file desc]

@@ -8,9 +8,10 @@ package nettcp
  */
 
 import (
-	"ccgo/debugger"
 	"fmt"
 	"net"
+
+	"github.com/crazycloudcc/ccgo/debugger"
 )
 
 /************************************************************************/

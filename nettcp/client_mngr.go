@@ -6,10 +6,12 @@ package nettcp
  */
 
 import (
-	"ccgo/datastructs"
-	"ccgo/debugger"
 	"errors"
 	"sync"
+
+	"github.com/crazycloudcc/ccgo/datastructs"
+
+	"github.com/crazycloudcc/ccgo/debugger"
 )
 
 /************************************************************************/

@@ -5,11 +5,12 @@ package netrpc
  */
 
 import (
-	"ccgo/debugger"
 	"fmt"
 	"net"
 	"net/rpc"
 	"net/rpc/jsonrpc"
+
+	"github.com/crazycloudcc/ccgo/debugger"
 )
 
 /************************************************************************/

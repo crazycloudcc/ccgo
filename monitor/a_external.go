@@ -6,7 +6,7 @@
  */
 package monitor
 
-import "ccgo/errcode"
+import "github.com/crazycloudcc/ccgo/errcode"
 
 /************************************************************************/
 // constants, variables, structs, interfaces.

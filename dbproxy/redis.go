@@ -9,11 +9,11 @@ package dbproxy
 
 import (
 	"bytes"
-	"ccgo/debugger"
 	"encoding/gob"
 	"encoding/json"
 	"fmt"
 
+	"github.com/crazycloudcc/ccgo/debugger"
 	"github.com/garyburd/redigo/redis"
 )
 

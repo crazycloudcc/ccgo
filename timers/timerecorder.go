@@ -8,10 +8,11 @@ package timers
  */
 
 import (
-	"ccgo/debugger"
 	"fmt"
 	"sync"
 	"time"
+
+	"github.com/crazycloudcc/ccgo/debugger"
 )
 
 /************************************************************************/

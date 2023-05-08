@@ -1,13 +1,14 @@
 package netwebsocket
 
 import (
-	"ccgo/datastructs"
-	"ccgo/debugger"
-	"ccgo/parsers"
-	"ccgo/timers"
 	"fmt"
 	"reflect"
 	"sync"
+
+	"github.com/crazycloudcc/ccgo/datastructs"
+	"github.com/crazycloudcc/ccgo/debugger"
+	"github.com/crazycloudcc/ccgo/parsers"
+	"github.com/crazycloudcc/ccgo/timers"
 )
 
 /*
