@@ -1,6 +1,6 @@
 package nettcp
 
-import "ccgo/parsers"
+import "github.com/crazycloudcc/ccgo/parsers"
 
 /*
  * encode/decode msg data.

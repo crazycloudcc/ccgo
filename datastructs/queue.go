@@ -8,11 +8,12 @@ package datastructs
  */
 
 import (
-	"ccgo/debugger"
 	"errors"
 	"fmt"
 	"sync"
 	"time"
+
+	"github.com/crazycloudcc/ccgo/debugger"
 )
 
 /************************************************************************/

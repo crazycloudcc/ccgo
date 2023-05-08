@@ -1,8 +1,9 @@
 package netwebsocket
 
 import (
-	"ccgo/debugger"
 	"sync"
+
+	"github.com/crazycloudcc/ccgo/debugger"
 
 	"github.com/gorilla/websocket"
 )

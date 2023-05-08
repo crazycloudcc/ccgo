@@ -9,12 +9,14 @@ package nettcp
 
 import (
 	"bytes"
-	"ccgo/datastructs"
-	"ccgo/debugger"
 	"fmt"
 	"net"
 	"sync"
 	"time"
+
+	"github.com/crazycloudcc/ccgo/datastructs"
+
+	"github.com/crazycloudcc/ccgo/debugger"
 )
 
 /************************************************************************/

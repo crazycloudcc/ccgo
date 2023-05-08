@@ -8,8 +8,9 @@ package nettcp
  */
 
 import (
-	"ccgo/parsers"
 	"errors"
+
+	"github.com/crazycloudcc/ccgo/parsers"
 )
 
 /************************************************************************/
