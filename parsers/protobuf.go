@@ -1,6 +1,6 @@
 package parsers
 
-import "google.golang.org/protobuf/proto"
+import "github.com/golang/protobuf/proto"
 
 /*
  * ProtoBuf解析器
