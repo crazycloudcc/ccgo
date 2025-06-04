@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/garyburd/redigo v1.6.4
+	github.com/golang/protobuf v1.5.0
 	github.com/gorilla/websocket v1.4.2
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.33.0 // indirect
 )
